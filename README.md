@@ -14,6 +14,7 @@ Enjoy challenging mini-games along the way
 Make story-driven decisions shaped by emotion and consequence
 
 👥 Developed by Next Level Team:
+
 🎯 Sina Abarashi – Programmer & Project Lead
 
 🎨 Mohammad Ebrahimi Kolahchi – 2D Artist
