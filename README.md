@@ -1,4 +1,4 @@
-🕹️ Battle of Wills – Version 1.0.0 (Test Release)
+# Battle of Wills – Version 1.0.0 (Test Release)
 Battle of Wills is a 2D story-driven single-player game developed in Unity (C#) by the Next Level Team.
 
 📖 Storyline:
